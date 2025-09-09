@@ -1,4 +1,4 @@
-package com.desafio.usuarios.presentation;
+package com.desafio.usuarios.presentation.controller;
 
 
 import com.desafio.usuarios.aplication.dto.user.UserResponse;
