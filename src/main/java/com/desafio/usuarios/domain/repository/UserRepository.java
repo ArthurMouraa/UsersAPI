@@ -1,6 +1,6 @@
 package com.desafio.usuarios.domain.repository;
 
-import com.desafio.usuarios.domain.User;
+import com.desafio.usuarios.domain.entity.User;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
 import org.springframework.stereotype.Repository;

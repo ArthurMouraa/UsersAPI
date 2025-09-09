@@ -1,4 +1,4 @@
-package com.desafio.usuarios.domain;
+package com.desafio.usuarios.domain.entity;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
